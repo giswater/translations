@@ -28,7 +28,7 @@ CI overwrites the block below on every export.
 | Locale | Language | Coverage |
 | --- | --- | --- |
 | en_US | English (USA) | `████████████████████` 100.00% |
-| es_ES | Español (España) | `████████████████████` 99.75% |
+| es_ES | Español (España) | `████████████████████` 99.77% |
 | uk_UA | Ukrainian (Ukraine) | `████████████████░░░░` 78.08% |
 | ca_ES | Català (Espanya) | `███████████████░░░░░` 76.44% |
 | es_CR | Español (Costa Rica) | `███████████████░░░░░` 72.88% |
@@ -47,7 +47,7 @@ xychart-beta
     title "Translation coverage (%)"
     x-axis ["en_US", "es_ES", "uk_UA", "ca_ES", "es_CR", "ro_RO", "de_GE", "pl_PL", "bg_BG", "ja_JA", "fr_FR", "pt_PT", "pt_BR", "ru_RU"]
     y-axis "%" 0 --> 100
-    bar [100, 99.75, 78.08, 76.44, 72.88, 69.84, 68.39, 68.22, 16.43, 16.45, 3.43, 1.83, 0.32, 0.01]
+    bar [100, 99.77, 78.08, 76.44, 72.88, 69.84, 68.39, 68.22, 16.43, 16.45, 3.43, 1.83, 0.32, 0.01]
 ```
 
 ## Contribute
