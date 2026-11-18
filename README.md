@@ -28,16 +28,16 @@ CI overwrites the block below on every export.
 | Locale | Language | Coverage |
 | --- | --- | --- |
 | en_US | English (USA) | `████████████████████` 100.00% |
-| es_ES | Español (España) | `████████████████████` 99.14% |
-| uk_UA | Ukrainian (Ukraine) | `████████████████░░░░` 77.64% |
-| ca_ES | Català (Espanya) | `███████████████░░░░░` 76.01% |
-| es_CR | Español (Costa Rica) | `███████████████░░░░░` 72.51% |
-| ro_RO | Romanian (Romania) | `██████████████░░░░░░` 69.48% |
-| de_GE | German (Germany) | `██████████████░░░░░░` 68.04% |
-| pl_PL | Polish (Poland) | `██████████████░░░░░░` 67.87% |
-| bg_BG | Búlgaro (Bulgaria) | `███░░░░░░░░░░░░░░░░░` 16.35% |
-| ja_JA | Japanese (Japan) | `███░░░░░░░░░░░░░░░░░` 16.37% |
-| fr_FR | François (France) | `█░░░░░░░░░░░░░░░░░░░` 3.42% |
+| es_ES | Español (España) | `████████████████████` 99.08% |
+| uk_UA | Ukrainian (Ukraine) | `████████████████░░░░` 77.60% |
+| ca_ES | Català (Espanya) | `███████████████░░░░░` 75.97% |
+| es_CR | Español (Costa Rica) | `██████████████░░░░░░` 72.47% |
+| ro_RO | Romanian (Romania) | `██████████████░░░░░░` 69.44% |
+| de_GE | German (Germany) | `██████████████░░░░░░` 68.00% |
+| pl_PL | Polish (Poland) | `██████████████░░░░░░` 67.83% |
+| bg_BG | Búlgaro (Bulgaria) | `███░░░░░░░░░░░░░░░░░` 16.34% |
+| ja_JA | Japanese (Japan) | `███░░░░░░░░░░░░░░░░░` 16.36% |
+| fr_FR | François (France) | `█░░░░░░░░░░░░░░░░░░░` 3.41% |
 | pt_PT | Portugese (Portugal) | `░░░░░░░░░░░░░░░░░░░░` 1.82% |
 | pt_BR | Portuguese (Brasil) | `░░░░░░░░░░░░░░░░░░░░` 0.32% |
 | ru_RU | Russian (Russia) | `░░░░░░░░░░░░░░░░░░░░` 0.01% |
@@ -47,7 +47,7 @@ xychart-beta
     title "Translation coverage (%)"
     x-axis ["en_US", "es_ES", "uk_UA", "ca_ES", "es_CR", "ro_RO", "de_GE", "pl_PL", "bg_BG", "ja_JA", "fr_FR", "pt_PT", "pt_BR", "ru_RU"]
     y-axis "%" 0 --> 100
-    bar [100, 99.14, 77.64, 76.01, 72.51, 69.48, 68.04, 67.87, 16.35, 16.37, 3.42, 1.82, 0.32, 0.01]
+    bar [100, 99.08, 77.60, 75.97, 72.47, 69.44, 68, 67.83, 16.34, 16.36, 3.41, 1.82, 0.32, 0.01]
 ```
 
 ## Contribute
