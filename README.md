@@ -28,15 +28,15 @@ CI overwrites the block below on every export.
 | Locale | Language | Coverage |
 | --- | --- | --- |
 | en_US | English (USA) | `████████████████████` 100.00% |
-| es_ES | Español (España) | `████████████████████` 98.99% |
-| uk_UA | Ukrainian (Ukraine) | `███████████████░░░░░` 77.49% |
-| ca_ES | Català (Espanya) | `███████████████░░░░░` 75.87% |
-| es_CR | Español (Costa Rica) | `██████████████░░░░░░` 72.37% |
-| ro_RO | Romanian (Romania) | `██████████████░░░░░░` 69.35% |
-| de_GE | German (Germany) | `██████████████░░░░░░` 67.91% |
-| pl_PL | Polish (Poland) | `██████████████░░░░░░` 67.74% |
+| es_ES | Español (España) | `████████████████████` 98.94% |
+| uk_UA | Ukrainian (Ukraine) | `███████████████░░░░░` 77.45% |
+| ca_ES | Català (Espanya) | `███████████████░░░░░` 75.82% |
+| es_CR | Español (Costa Rica) | `██████████████░░░░░░` 72.33% |
+| ro_RO | Romanian (Romania) | `██████████████░░░░░░` 69.31% |
+| de_GE | German (Germany) | `██████████████░░░░░░` 67.87% |
+| pl_PL | Polish (Poland) | `██████████████░░░░░░` 67.70% |
 | bg_BG | Búlgaro (Bulgaria) | `███░░░░░░░░░░░░░░░░░` 16.31% |
-| ja_JA | Japanese (Japan) | `███░░░░░░░░░░░░░░░░░` 16.34% |
+| ja_JA | Japanese (Japan) | `███░░░░░░░░░░░░░░░░░` 16.33% |
 | fr_FR | François (France) | `█░░░░░░░░░░░░░░░░░░░` 3.41% |
 | pt_PT | Portugese (Portugal) | `░░░░░░░░░░░░░░░░░░░░` 1.82% |
 | pt_BR | Portuguese (Brasil) | `░░░░░░░░░░░░░░░░░░░░` 0.32% |
@@ -47,7 +47,7 @@ xychart-beta
     title "Translation coverage (%)"
     x-axis ["en_US", "es_ES", "uk_UA", "ca_ES", "es_CR", "ro_RO", "de_GE", "pl_PL", "bg_BG", "ja_JA", "fr_FR", "pt_PT", "pt_BR", "ru_RU"]
     y-axis "%" 0 --> 100
-    bar [100, 98.99, 77.49, 75.87, 72.37, 69.35, 67.91, 67.74, 16.31, 16.34, 3.41, 1.82, 0.32, 0.01]
+    bar [100, 98.94, 77.45, 75.82, 72.33, 69.31, 67.87, 67.70, 16.31, 16.33, 3.41, 1.82, 0.32, 0.01]
 ```
 
 ## Contribute
